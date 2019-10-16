@@ -1,5 +1,3 @@
-## BrainSinger Privacy Policy
-
 ## Privacy Policy
 
 Brain Singer built the Brain Singer app as a Free app. This SERVICE is provided by Brain Singer at no cost and is intended for use as is.
